@@ -1,3 +1,2 @@
-msg = "helo world"
-
-
+msg = "hello world"
+puts msg
